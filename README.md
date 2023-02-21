@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Baljinnyam Gantumur (Jin)
 - 🎓 Undergraduate student majoring in CS @KAIST
-- 👀 I’m interested in Software development, ML, Blockchain
+- 👀 Interested in Software development, ML, Blockchain
 - 🌱 I’m currently learning Full-stack development, ML
-- 📫 How to reach me baljica@kaist.ac.kr
+- 📫 How to reach me baljicagantumur@gmail.com
 
 <!---
 Jin00x/Jin00x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
