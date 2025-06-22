@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Baljinnyam Gantumur (Jin)
 - 🎓 Undergraduate student majoring in CS @KAIST
-- 👀 Interested in Software development, ML, Blockchain
-- 🌱 I’m currently learning Full-stack development, ML
+- 👀 Interested in OS, Kernel, System Software development, ML
 - 📫 How to reach me baljicagantumur@gmail.com
 
 <!---
