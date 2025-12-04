@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Baljinnyam Gantumur (Jin)
+- 👋 Hi, I’m Baljinnyam Gantumur (Baljkaa)
 - 🎓 Undergraduate student majoring in CS @KAIST
-- 👀 Interested in OS, Kernel, System Software development, ML
+- 👀 Interested in SWE, OS, Kernel, System Software development, System for ML 
 - 📫 How to reach me baljicagantumur@gmail.com
 
 <!---
